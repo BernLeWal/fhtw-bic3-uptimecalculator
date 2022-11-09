@@ -20,6 +20,6 @@ class UptimeControllerTest {
 
     @Test
     void claculateUptimeHours() {
-        //assertEquals(1,0);
+        assertEquals(1,0);
     }
 }
